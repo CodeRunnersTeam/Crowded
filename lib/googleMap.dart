@@ -20,7 +20,6 @@ class _MapState extends State<Map> {
 
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
     getUserLocation();
   }
