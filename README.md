@@ -10,8 +10,8 @@ This app is made using the Flutter build engine and Dart programming language. T
 
 # The team:
 
-Dorin Cuibus -leader, front-end developer, pitcher
-Tudor Gadalean -front-end developer
-Rareș Pop -back-end developer, designer
-Mihai Konnerth -back-end developer, designer
-Dragoș Mateș -researcher, general developer, cheerleader
+ - Dorin Cuibus -leader, front-end developer, pitcher
+ - Tudor Gadalean -front-end developer
+ - Rareș Pop -back-end developer, designer
+ - Mihai Konnerth -back-end developer, designer
+ - Dragoș Mateș -researcher, general developer, cheerleader
