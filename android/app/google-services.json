@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167875573817",
+    "project_id": "test1-698c7",
+    "storage_bucket": "test1-698c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167875573817:android:adb660b3cf25f57b79b5e8",
+        "android_client_info": {
+          "package_name": "com.Roaba.test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167875573817-4eb2oiacgf4ocf6g80qhhvagpd0vb5f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Ph8wyE8y8CFbuxt_cAMbLtlnYxHAvG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167875573817-4eb2oiacgf4ocf6g80qhhvagpd0vb5f8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
