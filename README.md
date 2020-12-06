@@ -1,16 +1,17 @@
 # Crowded
 
-A new Flutter project.
+This is our app. Made for everyone who wants to avoid crowded places during this pandemic or in general.
+The app is based on feedback given by users who report how crowded a place is. In the future we will implement a search function so that you can easly find the best place for you ;)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Development
 
-A few resources to get you started if this is your first Flutter project:
+This app is made using the Flutter build engine and Dart programming language. This was a huge step for us cause we had to learn both the engine as well as the language in a very short amount of time during a hackaton (PoliHack)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# The team:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dorin Cuibus -leader, front-end developer, pitcher
+Tudor Gadalean -front-end developer
+Rareș Pop -back-end developer, designer
+Mihai Konnerth -back-end developer, designer
+Dragoș Mateș -mechatronics engineer, general developer
