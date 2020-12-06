@@ -14,4 +14,4 @@ Dorin Cuibus -leader, front-end developer, pitcher
 Tudor Gadalean -front-end developer
 Rareș Pop -back-end developer, designer
 Mihai Konnerth -back-end developer, designer
-Dragoș Mateș -mechatronics engineer, general developer
+Dragoș Mateș -mechatronics engineer, general developer, cheerleader
